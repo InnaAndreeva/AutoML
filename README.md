@@ -28,11 +28,11 @@ Jupyter Notebook, Google Colab.
 
 Необходимо ознакомиться с рядом AutoML систем:
 
--   [LAMA] (https://github.com/sberbank-ai-lab/LightAutoML)
--   [TPOT] (https://automl.info/tpot/)
--   [auto-sklearn] (https://automl.github.io/auto-sklearn/master/)
--   [H2O_AutoML] (https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
--   [Mljar] (https://github.com/mljar/mljar-supervised)
+-   [LAMA](https://github.com/sberbank-ai-lab/LightAutoML)
+-   [TPOT](https://automl.info/tpot/)
+-   [auto-sklearn](https://automl.github.io/auto-sklearn/master/)
+-   [H2O_AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+-   [Mljar](https://github.com/mljar/mljar-supervised)
 
 1. Установить каждую систему при помощи `pip`. Желательно с каждой системой работать в отдельном ноутбуке либо сбрасывать среду выполнения перед установкой каждой последующей системы (это связано с разными версиями зависимостей).
 1. Загрузить набор данных, провести разведочный анализ выборки (построить матрицу корреляции, диаграммы рассеивания для признаков, вывести основные статистики набора данных).
@@ -56,7 +56,7 @@ Jupyter Notebook, Google Colab.
 
 ### Полезные ссылки 🔗
 
-1. [Что такое автоматизированное машинное обучение (AutoML)] (https://habr.com/ru/post/449260/)
-1. [Автоматическое машинное обучение] (https://neerc.ifmo.ru/wiki/index.php?title=Автоматическое_машинное_обучение)
-1. [AutoML.org] (https://www.automl.org/)
-1. [AutoML: A Survey of the State-of-the-Art] (https://arxiv.org/abs/1908.00709)
+1. [Что такое автоматизированное машинное обучение (AutoML)](https://habr.com/ru/post/449260/)
+1. [Автоматическое машинное обучение](https://neerc.ifmo.ru/wiki/index.php?title=Автоматическое_машинное_обучение)
+1. [AutoML.org](https://www.automl.org/)
+1. [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709)
